@@ -1,3 +1,4 @@
+![alt README header](https://github.com/shmuelSigler/shmuelSigler/blob/c7eb20ec1987a9f02d012fed4d347f658f517ec3/rob%20roy%20glacier.JPG)
 <h1 align="center">Hi 👋, I'm Shmuel Sigler</h1>
 <h3 align="center">Full Stack Developer</h3>
 
@@ -5,7 +6,7 @@
 
 - 👨‍💻 Feel free to check my first MERN stack app - an [E-commerce single page application](https://mern-3d-store.netlify.app/)
 
-- ⚡ Fun fact **Im A Mechanical Engineering Graduate**
+- ⚡ Fun fact **Im A Mechanical Engineering Graduate and Backpacker in Heart**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
