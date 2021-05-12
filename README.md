@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **react, node.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shmuelSigler?tab=repositories](https://github.com/shmuelSigler?tab=repositories)
+- 👨‍💻 Feel free to check my first MERN stack app - an [E-commerce single page application](https://mern-3d-store.netlify.app/)
 
 - ⚡ Fun fact **Im A Mechanical Engineering Graduate**
 
