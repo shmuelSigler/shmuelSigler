@@ -2,11 +2,13 @@
 <h1 align="center">Hi 👋, I'm Shmuel Sigler</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **react, node.js**
+
+- 🛠 &nbsp; I’m currently working with **Nodejs, Express, React, Mongodb, Javascript, etc.**
 
 - 👨‍💻 Feel free to check my first MERN stack app - an [E-commerce single page application](https://mern-3d-store.netlify.app/)
 
 - ⚡ Fun fact **Im A Mechanical Engineering Graduate and Backpacker in Heart**
+-  📝 &nbsp; Checkout my [Resume](https://github.com/shmuelSigler/shmuelSigler/blob/main/CV%20Fullstack.pdf).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
