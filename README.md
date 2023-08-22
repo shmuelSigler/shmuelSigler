@@ -1,9 +1,7 @@
 ![alt README header](https://github.com/shmuelSigler/shmuelSigler/blob/c7eb20ec1987a9f02d012fed4d347f658f517ec3/rob%20roy%20glacier.JPG)
 <h1 align="center">Hi 👋, I'm Shmuel Sigler</h1>
 <h3 align="center">Full Stack Developer</h3>
- <script type="text/javascript"  src="https://cdn.credly.com/assets/utilities/embed.js"></script>
-
- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4a38fd8b-caf4-42bb-86bb-84787abbfd49" data-share-badge-host="https://www.credly.com"></div>
+https://www.credly.com/badges/aa1ef8ff-7642-40ff-b593-0fea41508f4c/linked_in_profile
 - 🛠 &nbsp; I’m currently working with **Nodejs, Express, React, Mongodb, Javascript, etc.**
 
 - 👨‍💻 Feel free to check my first MERN stack app - an [E-commerce single page application](https://mern-3d-store.netlify.app/)
