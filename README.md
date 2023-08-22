@@ -1,8 +1,9 @@
+## My Certifications
+[![Credly Badge](badges.md)](badges.md)
 ![alt README header](https://github.com/shmuelSigler/shmuelSigler/blob/c7eb20ec1987a9f02d012fed4d347f658f517ec3/rob%20roy%20glacier.JPG)
 <h1 align="center">Hi 👋, I'm Shmuel Sigler</h1>
 <h3 align="center">Full Stack Developer</h3>
-## My Certifications
-[![Credly Badge](badges.md)](badges.md)
+
 
 - 🛠 &nbsp; I’m currently working with **Nodejs, Express, React, Mongodb, Javascript, etc.**
 
