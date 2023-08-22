@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Shmuel Sigler</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4a38fd8b-caf4-42bb-86bb-84787abbfd49" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4a38fd8b-caf4-42bb-86bb-84787abbfd49" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 - 🛠 &nbsp; I’m currently working with **Nodejs, Express, React, Mongodb, Javascript, etc.**
 
 - 👨‍💻 Feel free to check my first MERN stack app - an [E-commerce single page application](https://mern-3d-store.netlify.app/)
