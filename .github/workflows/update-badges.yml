@@ -1,7 +1,7 @@
 name: Update badges
 
 on:
-  orkflow_dispatch: # Put here!!
+  workflow_dispatch: # Put here!!
   schedule:
     # Runs at 0am UTC every day
     - cron: "0 0 * * *"
