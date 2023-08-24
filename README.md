@@ -17,6 +17,8 @@
 -  📝 &nbsp; Checkout my [Resume](https://github.com/shmuelSigler/shmuelSigler/blob/main/CV%20Fullstack.pdf).
 
 <h3 align="left">Connect with me:</h3>
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/shmuel-sigler#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/shmuel-sigler#gh-dark-mode-only)
 <p align="left">
 <a href="[https://linkedin.com/in/shmuelsigler](https://www.linkedin.com/in/shmuel-sigler/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="shmuel sigler" height="30" width="40" /></a>
 </p>
