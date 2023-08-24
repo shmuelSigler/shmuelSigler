@@ -25,3 +25,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shmuelsigler&" alt="shmuelsigler" /></p>
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
