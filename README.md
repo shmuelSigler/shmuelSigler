@@ -1,15 +1,10 @@
    ![alt README header](https://github.com/shmuelSigler/shmuelSigler/blob/c7eb20ec1987a9f02d012fed4d347f658f517ec3/rob%20roy%20glacier.JPG)
    <h1 align="center">Hi 👋, I'm Shmuel Sigler</h1>                                                    
-   <h3 align="center">Full Stack Developer</h3>                                                        
+   <h3 align="center">DevOps Engineer</h3>                                                        
                                                                                                        
   <h3 align="left">Certifications:</h3>                                                               
    <!--START_SECTION:badges-->                                                                         
-  <!--END_SECTION:badges-->                                                                           
-                                                                                                      
-  - 🛠  &nbsp; I’m currently working with **Nodejs, Express, React, Mongodb, Javascript, etc.**        
-                                                                                                      
-  - 👨<200d>💻 Feel free to check my first MERN stack app - an [E-commerce single page application](https://mern-3d-store.netlify.app/)
-                                                                                                                          
+  <!--END_SECTION:badges-->                                                                                                                                                                                                                                                                                                                                    
   -  📝 &nbsp; Checkout my [Resume](https://github.com/shmuelSigler/shmuelSigler/blob/main/CV%20Fullstack.pdf).
                                                                                                       
   <h3 align="left">Connect with me:</h3>   
