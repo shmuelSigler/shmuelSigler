@@ -3,6 +3,11 @@
 <h1 align="center">Hi 👋, I'm Shmuel Sigler</h1>
 <h3 align="center">Full Stack Developer</h3>
 
+## Certifications:
+<!--START_SECTION:badges-->
+[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/4a38fd8b-caf4-42bb-86bb-84787abbfd49 "CKA: Certified Kubernetes Administrator")
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/aa1ef8ff-7642-40ff-b593-0fea41508f4c "AWS Certified Cloud Practitioner")
+<!--END_SECTION:badges-->
 
 - 🛠 &nbsp; I’m currently working with **Nodejs, Express, React, Mongodb, Javascript, etc.**
 
@@ -21,8 +26,4 @@
 </p>
 
 
-<!--START_SECTION:badges-->
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/4a38fd8b-caf4-42bb-86bb-84787abbfd49 "CKA: Certified Kubernetes Administrator")
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/aa1ef8ff-7642-40ff-b593-0fea41508f4c "AWS Certified Cloud Practitioner")
-<!--END_SECTION:badges-->
 
