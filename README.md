@@ -9,8 +9,7 @@
   - 🛠  &nbsp; I’m currently working with **Nodejs, Express, React, Mongodb, Javascript, etc.**        
                                                                                                       
   - 👨<200d>💻 Feel free to check my first MERN stack app - an [E-commerce single page application](https://mern-3d-store.netlify.app/)
-                                                                                                      
-  - ⚡ Fun fact **Im A Mechanical Engineering Graduate and Backpacker in Heart**                      
+                                                                                                                          
   -  📝 &nbsp; Checkout my [Resume](https://github.com/shmuelSigler/shmuelSigler/blob/main/CV%20Fullstack.pdf).
                                                                                                       
   <h3 align="left">Connect with me:</h3>   
