@@ -14,9 +14,8 @@
   -  📝 &nbsp; Checkout my [Resume](https://github.com/shmuelSigler/shmuelSigler/blob/main/CV%20Fullstack.pdf).
                                                                                                       
   <h3 align="left">Connect with me:</h3>   
-  
-  [![website](./img/linkedin-light.svg)](https://linkedin.com/in/shmuel-sigler#gh-light-mode-only)    
-  [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/shmuel-sigler#gh-dark-mode-only)                                                                                                  
+
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shmuel-sigler/)                                                                                  
                                                                                                       
   <h3 align="left">Languages and Tools:</h3>                                                          
   <p align="left">  
