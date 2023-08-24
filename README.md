@@ -4,8 +4,6 @@
                                                                                                        
   <h3 align="left">Certifications:</h3>                                                               
    <!--START_SECTION:badges-->                                                                         
-   [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/4a38fd8b-caf4-42bb-
-  [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/aa1ef8ff-7642-40ff-b593-0fea41508f4c "AWS Cert
   <!--END_SECTION:badges-->                                                                           
                                                                                                       
   - 🛠  &nbsp; I’m currently working with **Nodejs, Express, React, Mongodb, Javascript, etc.**        
@@ -15,15 +13,14 @@
   - ⚡ Fun fact **Im A Mechanical Engineering Graduate and Backpacker in Heart**                      
   -  📝 &nbsp; Checkout my [Resume](https://github.com/shmuelSigler/shmuelSigler/blob/main/CV%20Fullstack.pdf).
                                                                                                       
-  <h3 align="left">Connect with me:</h3>                                                              
+  <h3 align="left">Connect with me:</h3>   
+  
   [![website](./img/linkedin-light.svg)](https://linkedin.com/in/shmuel-sigler#gh-light-mode-only)    
-  [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/shmuel-sigler#gh-dark-mode-only)      
-  <p align="left">                                                                                    
-  <a href="[https://linkedin.com/in/shmuelsigler](https://www.linkedin.com/in/shmuel-sigler/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-genera
-  </p>                                                                                                
+  [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/shmuel-sigler#gh-dark-mode-only)                                                                                                  
                                                                                                       
   <h3 align="left">Languages and Tools:</h3>                                                          
-  <p align="left">                                                                                    
+  <p align="left">  
+     
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
