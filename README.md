@@ -31,3 +31,5 @@
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)     
                                                                                                       
   </p>       
+
+<div style="overflow:hidden;margin-left:auto;margin-right:auto;border-radius:10px;width:100%;max-width:491.97px;position:relative"><div style="width:100%;padding-bottom:62.60544342134683%"></div><iframe width="491.97" height="308" title="" src="https://snappify.com/embed/b268de66-069b-4bbe-94a5-156819141ab1?responsive=1" allow="clipboard-write" allowfullscreen="" style="background:linear-gradient(120deg,#F6D365FF,#FDA085FF);position:absolute;left:0;top:0;width:100%" frameborder="0"></iframe></div>
