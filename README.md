@@ -1,9 +1,11 @@
    ![alt README header](https://github.com/shmuelSigler/shmuelSigler/blob/c7eb20ec1987a9f02d012fed4d347f658f517ec3/rob%20roy%20glacier.JPG)
    <h1 align="center">Hi 👋, I'm Shmuel Sigler</h1>                                                    
    <h3 align="center">DevOps Engineer</h3>                                                        
+ <p align="center">My past experience as Full Stack developer provides a strong foundation in software development and understanding of the end-to-end application lifecycle, which enhances my ability to implement efficient DevOps practices and bridge the gap between development and operations teams.</p>
+                                                                                                       
                                                                                                        
   <h3 align="left">Certifications:</h3>    
-  <p align="center">𝐌𝐲 𝐩𝐚𝐬𝐭 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐚𝐬 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐩𝐫𝐨𝐯𝐢𝐝𝐞𝐬 𝐚 𝐬𝐭𝐫𝐨𝐧𝐠 𝐟𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐚𝐧𝐝 𝐮𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐨𝐟 𝐭𝐡𝐞 𝐞𝐧𝐝-𝐭𝐨-𝐞𝐧𝐝 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐥𝐢𝐟𝐞𝐜𝐲𝐜𝐥𝐞, 𝐰𝐡𝐢𝐜𝐡 𝐞𝐧𝐡𝐚𝐧𝐜𝐞𝐬 𝐦𝐲 𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐭𝐨 𝐢𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐭 𝐞𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐭 𝐃𝐞𝐯𝐎𝐩𝐬 𝐩𝐫𝐚𝐜𝐭𝐢𝐜𝐞𝐬 𝐚𝐧𝐝 𝐛𝐫𝐢𝐝𝐠𝐞 𝐭𝐡𝐞 𝐠𝐚𝐩 𝐛𝐞𝐭𝐰𝐞𝐞𝐧 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐚𝐧𝐝 𝐨𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧𝐬 𝐭𝐞𝐚𝐦𝐬.</p>
+ 
   
 <!--START_SECTION:badges-->
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/4a38fd8b-caf4-42bb-86bb-84787abbfd49 "CKA: Certified Kubernetes Administrator")
