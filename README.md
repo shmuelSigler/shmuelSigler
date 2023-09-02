@@ -5,8 +5,6 @@
                                                                                                        
                                                                                                        
   <h3 align="left">Certifications:
-          <img src="https://media4.giphy.com/media/nJ2svGMHDVvUXlxz1o/giphy.gif?cid=ecf05e47tp3jum5qcoqmlrjlux8yqv7lqpjnr3nt8l0b4v5m&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="28"> </h3>                                                          
-
   </h3>    
  
   
@@ -21,7 +19,8 @@
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shmuel-sigler/)                                                                                  
                                                                                                       
   <h3 align="left">Languages and Tools: 
-     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> </h3>                                                          
+     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
+  </h3>                                                          
   <p align="left">  
      
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
