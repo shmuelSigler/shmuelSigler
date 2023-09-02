@@ -4,7 +4,10 @@
  <p align="center">My past experience as Full Stack developer provides a strong foundation in software development and understanding of the end-to-end application lifecycle, which enhances my ability to implement efficient DevOps practices and bridge the gap between development and operations teams.</p>
                                                                                                        
                                                                                                        
-  <h3 align="left">Certifications:</h3>    
+  <h3 align="left">Certifications:
+          <img src="https://media4.giphy.com/media/nJ2svGMHDVvUXlxz1o/giphy.gif?cid=ecf05e47tp3jum5qcoqmlrjlux8yqv7lqpjnr3nt8l0b4v5m&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="28"> </h3>                                                          
+
+  </h3>    
  
   
 <!--START_SECTION:badges-->
