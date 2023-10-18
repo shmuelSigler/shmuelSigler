@@ -39,3 +39,6 @@
                                                                                                       
   </p>       
 
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lnvishouktqdvwgk8sol" alt="trackgit-views" />
+</a>
